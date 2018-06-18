@@ -1,0 +1,15 @@
+This was the cascading lift made for the 2018 season. It utilizes 3d printed bearing blocks to travel up and down rectangular tubing. 
+It worked very well this season and the only alterations were:
+  - Washers on either end of the holes on the end of the 3D printedbearing block to protect it from being chipped away. 
+  - Changing the reduction on the motor from a 75:1 to a 108:1 at the AZ North competition.
+ 
+ This subassembly also includes the Intake Pivot mechanism (with the 1st Iteration of the Intake), which kept the intake within our perimeter 
+ at the beginning of the match and extended down during the match to pick up power cubes.
+ It also helped us reach an extra 12" in height for climbing. 
+ Alterations on the Intake Pivot
+  - Changed it from being driven with a BAG motor to a Mini CIM motor
+  - Overall reduction was the same, but instead of having a 300:1 reduction through a VersaPlanetary Gearbox
+  we did a 108:1 reduction with an additional 3:1 reduction created through sprockets and chain outside of the gearbox.
+  This was because our intake pivot broke in the finals of AZ West because we were using the versaplanetary gearboxes
+  far past their intended rating of torque. 
+  - Added pieces of angle to stiffen the assembly
